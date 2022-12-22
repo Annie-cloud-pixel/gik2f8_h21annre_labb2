@@ -1,0 +1,20 @@
+{
+  "name": "gik2f8-ht22-02-todo-p02",
+  "version": "1.0.0",
+  "description": "Här lagras kod för kursen GIK2F8.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annie-cloud-pixel/gik2f8_h21annre_labb2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annie-cloud-pixel/gik2f8_h21annre_labb2/issues"
+  },
+  "homepage": "https://github.com/Annie-cloud-pixel/gik2f8_h21annre_labb2#readme",
+  "keywords": []
+}
